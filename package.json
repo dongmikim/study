@@ -1,0 +1,21 @@
+{
+  "name": "nodebird",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "author": "dmk",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.5.5",
+    "prop-types": "^15.8.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-react": "^7.30.0",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  }
+}
